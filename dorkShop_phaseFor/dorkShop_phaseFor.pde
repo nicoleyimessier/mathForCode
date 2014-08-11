@@ -1,7 +1,6 @@
 //----------------------------------------------------
 // DT Bootcamp 2014, Parsons the New School for Design. 
 // Math For Code Dorkshop
-// written by Nicole Messier
 //----------------------------------------------------
 
 
